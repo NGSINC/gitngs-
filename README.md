@@ -1,0 +1,2 @@
+# gitngs-
+Repository for NGS
